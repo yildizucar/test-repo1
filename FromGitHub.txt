@@ -1,0 +1,2 @@
+https://github.com/yildizucar/test-repo1
+this is the file i added from GitHub.com directly
